@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>372801908899-m89jj18v5v7n240136b82lb6pff6qusj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.372801908899-m89jj18v5v7n240136b82lb6pff6qusj</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCrXn4Mag79ZntvY1PzVa0XplZv925yl2c</string>
+	<key>GCM_SENDER_ID</key>
+	<string>372801908899</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.foodr.app</string>
+	<key>PROJECT_ID</key>
+	<string>tinder-food-d0945</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tinder-food-d0945.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:372801908899:ios:78d97d1f690cc700</string>
+	<key>DATABASE_URL</key>
+	<string>https://tinder-food-d0945.firebaseio.com</string>
+</dict>
+</plist>
