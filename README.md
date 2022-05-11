@@ -1,8 +1,5 @@
-# Recipy
-Small swift project using the food2fork API
+# Food Recipe Sharing App
 
-
-This is food recipe management system.
-
--Swift (Xcode)
--firebase, firestore
+-Swift(4.0)
+-Food2York third part API
+-Figma
